@@ -1,0 +1,32 @@
+@font-face{
+    font-family: gothampro;
+    src: url(../fonts/GothamPro-Bold.woff2) format('woff2'),
+        url(../fonts/GothamPro-Bold.woff) format('woff');
+    font-weight: 700;     
+}
+@font-face{
+    font-family: pfencoresanspro;
+    src: url(../fonts/PFEncoreSansPro-Bold.woff2) format('woff2'),
+        url(../fonts/PFEncoreSansPro-Bold.woff) format('woff');
+    font-weight: 700;   
+}
+@font-face{
+    font-family: pfencoresanspro;
+    src: url(../fonts/PFEncoreSansPro-Light.woff2) format('woff2'),
+        url(../fonts/PFEncoreSansPro-Light.woff) format('woff');
+    font-weight: 300;   
+}
+@font-face{
+    font-family: pfencoresanspro;
+    src: url(../fonts/PFEncoreSansPro-Medium.woff2) format('woff2'),
+        url(../fonts/PFEncoreSansPro-Medium.woff) format('woff');
+    font-weight: 500;   
+}
+@font-face{
+    font-family: pfencoresanspro;
+    src: url(../fonts/PFEncoreSansPro-Thin.woff2) format('woff2'),
+        url(../fonts/PFEncoreSansPro-Thin.woff) format('woff');
+    font-weight: 100;   
+}
+
+
